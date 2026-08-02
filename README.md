@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kajal9873/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kajal9873/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kajal9873/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kajal9873/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kajal9873/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/kajal9873/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
