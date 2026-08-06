@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kajal9873/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kajal9873/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kajal9873/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kajal9873/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kajal9873/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/kajal9873/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kajal9873/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kajal9873/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kajal9873/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0120-triangle) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal9873/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/kajal9873/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kajal9873/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kajal9873/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kajal9873/leetcode-solutions/tree/master/0542-01-matrix) |
