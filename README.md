@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kajal9873/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kajal9873/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal9873/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kajal9873/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/kajal9873/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kajal9873/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kajal9873/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal9873/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kajal9873/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/kajal9873/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal9873/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/kajal9873/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kajal9873/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -472,4 +475,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kajal9873/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal9873/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
