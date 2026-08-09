@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kajal9873/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/kajal9873/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kajal9873/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/kajal9873/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kajal9873/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/kajal9873/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -491,17 +493,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
