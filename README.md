@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/kajal9873/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/kajal9873/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kajal9873/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Design
 |  |
@@ -495,19 +496,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kajal9873/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/kajal9873/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
