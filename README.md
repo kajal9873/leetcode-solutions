@@ -526,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
