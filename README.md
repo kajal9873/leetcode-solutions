@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kajal9873/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/kajal9873/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kajal9873/leetcode-solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kajal9873/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/kajal9873/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/kajal9873/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kajal9873/leetcode-solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kajal9873/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kajal9873/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kajal9873/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/kajal9873/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kajal9873/leetcode-solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Shortest Path
 |  |
 | ------- |
