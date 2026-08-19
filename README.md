@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kajal9873/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kajal9873/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/kajal9873/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kajal9873/leetcode-solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Sorting
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kajal9873/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kajal9873/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/kajal9873/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/kajal9873/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kajal9873/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kajal9873/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kajal9873/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kajal9873/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/kajal9873/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/kajal9873/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kajal9873/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kajal9873/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal9873/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
