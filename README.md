@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kajal9873/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/kajal9873/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kajal9873/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kajal9873/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
 | ------- |
