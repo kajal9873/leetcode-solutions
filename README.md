@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kajal9873/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/kajal9873/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1927-sum-game](https://github.com/kajal9873/leetcode-solutions/tree/master/1927-sum-game) |
 | [2484-count-palindromic-subsequences](https://github.com/kajal9873/leetcode-solutions/tree/master/2484-count-palindromic-subsequences) |
 ## Design
 |  |
@@ -465,12 +466,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kajal9873/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1927-sum-game](https://github.com/kajal9873/leetcode-solutions/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kajal9873/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kajal9873/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/kajal9873/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [1927-sum-game](https://github.com/kajal9873/leetcode-solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kajal9873/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kajal9873/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kajal9873/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kajal9873/leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
