@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -648,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kajal9873/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kajal9873/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
