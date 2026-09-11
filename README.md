@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kajal9873/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kajal9873/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kajal9873/leetcode-solutions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kajal9873/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal9873/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kajal9873/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kajal9873/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kajal9873/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kajal9873/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kajal9873/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kajal9873/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kajal9873/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kajal9873/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kajal9873/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/kajal9873/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/kajal9873/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kajal9873/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kajal9873/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kajal9873/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
