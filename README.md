@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kajal9873/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/kajal9873/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kajal9873/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/kajal9873/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kajal9873/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0983-minimum-cost-for-tickets](https://github.com/kajal9873/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kajal9873/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kajal9873/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/kajal9873/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/kajal9873/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/kajal9873/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kajal9873/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kajal9873/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kajal9873/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
